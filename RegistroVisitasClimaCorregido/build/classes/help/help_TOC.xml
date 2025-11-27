@@ -1,0 +1,6 @@
+<toc version="2.0">
+    <tocitem text="Ayuda de la aplicación">
+        <tocitem text="Página principal" target="inicio"/>
+        <tocitem text="Segundo tema" target="tema2"/>
+    </tocitem>
+</toc>
